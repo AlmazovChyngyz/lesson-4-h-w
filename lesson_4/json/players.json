@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Karim Benzema",
+    "age": 35,
+    "position": "ST",
+    "club":  "Al-Ittihad"
+  },
+  {
+    "name": "Lionel Messi",
+    "age": 36,
+    "position": "ST",
+    "club":  "Inter Miami"
+  },
+  {
+    "name": "Neymar Junior",
+    "age": 31,
+    "position": "LW",
+    "club":  "Al Hilal"
+  },
+  {
+    "name": "Cristiano Ronaldo",
+    "age": 38,
+    "position": "ST",
+    "club":  "Al Nassr"
+  }
+]
